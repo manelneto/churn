@@ -1,4 +1,4 @@
-# *Banking Customer Churn Prediction*Jogo Amado
+# *Banking Customer Churn Prediction*
 
 ## Identificação do Grupo
 
