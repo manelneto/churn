@@ -1,5 +1,7 @@
 # *Banking Customer Churn Prediction*
 
+Este projeto foi desenvolvido no âmbito da Unidade Curricular **Inteligência Artificial (IA)** do 2º semestre do 3º ano da **Licenciatura em Engenharia Informática e Computação (LEIC)** da **Faculdade de Engenharia da Universidade do Porto (FEUP)**, no ano letivo 2023/2024.
+
 ## Identificação do Grupo
 
 Grupo: **Group A2_42**
